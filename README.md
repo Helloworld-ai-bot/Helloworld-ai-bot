@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Helloworld-ai-bot
+- 👀 I’m interested in neural network
+- 🌱 I’m currently learning css 
+- 💞️ I’m looking to collaborate on game development
+- 📫 How to reach me amindarkwolf3@gmail.com
+- 😄 Pronouns: you can call me amin
+- ⚡ Fun fact: I'm actually a designer, but I'm working on my programming skills so I can make games
+
